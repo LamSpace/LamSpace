@@ -7,7 +7,7 @@
 - 📍 Based in Chengdu, Sichuan, China
 - ☕ Mostly writing **Java** — Spring Boot / Spring Cloud, distributed locks with Raft, annotation processors
 - 🛠 Also exploring **Go** and **Vue 3**
-- 🐱 Joined GitHub in 2017 · [11 public repos](https://github.com/LamSpace?tab=repositories)
+- 🐱 Joined GitHub in 2017 · [10 public repos](https://github.com/LamSpace?tab=repositories)
 - ⚡ Things I've been building:
   - [OpenLatch](https://github.com/LamSpace/OpenLatch) — distributed lock service built on Apache Ratis (Raft)
   - [meilisearch-plus](https://github.com/LamSpace/meilisearch-plus) — enhanced component for the Meilisearch Java SDK
@@ -26,7 +26,7 @@
 
 ### GitHub Stats
 
-[![LamSpace's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamSpace&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![LamSpace's GitHub stats](https://github-readme-stats-alpha.vercel.app/api?username=LamSpace&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LamSpace&theme=swift&border_radius=20&card_width=600)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
